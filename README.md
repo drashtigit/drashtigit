@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **CP, C++ and front end**
+- 💬 Ask me about **CP, C++ and Web Development**
 
 - 📫 How to reach me **14drashtishah@gmail.com**
 
